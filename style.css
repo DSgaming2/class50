@@ -1,0 +1,12 @@
+h1{
+    color:gold;
+  
+}
+*{
+    border:hotpink;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
